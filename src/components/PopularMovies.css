@@ -1,0 +1,55 @@
+button {
+    margin: 10px 30px 40px 30px;
+    background-color:#0a043c;
+    border: none;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+div {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+h1 {
+    word-break: break-all;
+    width: 25%;
+    border: solid 5px #ffe3de;
+    border-radius: 20px;
+    margin: 40px 0 40px 35%;
+    padding: 15px;
+}
+
+h1:hover {
+    background-color: white;
+}
+h3 {
+    color: #a3ddcb;
+    font-size: 25px;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+img {
+    width: 40%;
+    border: solid 3px #03506f;
+    border-radius: 5%;
+}
+
+p {
+    margin: 30px 60px;
+    font-family: 'Playfair Display', serif;
+    line-height: 1.5rem;
+}
+
+.rate {
+    margin: 10px auto 0;
+    display: block;
+    width: 200px;
+    color:#a3ddcb;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.titleBox {
+    display: flex;
+}
